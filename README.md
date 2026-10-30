@@ -1,16 +1,18 @@
-<div align="center">
-  <img align="right" width="170" src="sagar-shinde-profile.jpg" alt="Sagar Shinde" />
-  <h1>Sagar Shinde</h1>
-  <p><strong>Senior Data Engineer · Hong Kong</strong></p>
-  <p>Building dependable Azure data platforms, lakehouse pipelines, and engineering practices that help teams deliver with confidence.</p>
-  <p>
-    <a href="https://shindesagar265.github.io/sagar-shinde-profile/">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/sagar-shinde-095a6117/">LinkedIn</a> ·
-    <a href="https://www.credly.com/users/sagar-shinde.56091bcc">Credly</a>
-  </p>
-</div>
+<p align="center">
+  <img src="sagar-shinde-profile-circle.png" width="144" height="144" alt="Portrait of Sagar Shinde" />
+</p>
 
-<br clear="all" />
+<h1 align="center">Sagar Shinde</h1>
+
+<p align="center"><strong>Senior Data Engineer · Hong Kong</strong></p>
+
+<p align="center">Building dependable Azure data platforms, lakehouse pipelines, and engineering practices that help teams deliver with confidence.</p>
+
+<p align="center">
+  <a href="https://shindesagar265.github.io/sagar-shinde-profile/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sagar-shinde-095a6117/">LinkedIn</a> ·
+  <a href="https://www.credly.com/users/sagar-shinde.56091bcc">Credly</a>
+</p>
 
 ## What I work on
 
