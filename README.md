@@ -22,7 +22,7 @@
 ## Selected work
 
 - **Engineering enablement:** An approval-gated data engineering assistant for onboarding, metadata health, pipeline support, repository workflows, and code review.
-- **Regional data integration:** PySpark and SQL curation pipelines for Hong Kong and Japan feeding a global data lake.
+- **Regional and global delivery:** Data engineering support for Hong Kong and Japan initiatives and a global High Net Worth programme.
 - **Applied GenAI:** A sales-enablement MVP developed with data science and engineering partners.
 - **Streaming and modernization:** Azure migrations and Kafka/Databricks streaming for enterprise data workloads.
 
